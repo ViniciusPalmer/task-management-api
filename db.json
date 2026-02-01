@@ -1,0 +1,76 @@
+{
+  "tasks": [
+    {
+      "id": "8b1a33fc-1d31-4988-896b-3bf4fb500708",
+      "title": "Agenda Importante",
+      "description": "Reunião com investidores às 17h",
+      "completed": true,
+      "createdAt": "2026-02-01T16:46:42.910Z",
+      "updatedAt": "2026-02-01T17:15:32.019Z"
+    },
+    {
+      "id": "9388ec2a-b61e-450b-9892-e660c4132aae",
+      "title": "Banho e Tosa",
+      "description": "Levar o cão para o banho e tosa às 13h",
+      "completed": false,
+      "createdAt": "2026-02-01T17:20:28.783Z",
+      "updatedAt": "2026-02-01T17:20:28.783Z"
+    },
+    {
+      "id": "74b73ba8-971f-4f3e-a0d4-4d50b915805a",
+      "title": "Content-Disposition: form-data",
+      "description": "name=\"csv_file\"",
+      "completed": false,
+      "createdAt": "2026-02-01T17:53:39.678Z",
+      "updatedAt": "2026-02-01T17:53:39.678Z"
+    },
+    {
+      "id": "67126aec-2980-4501-8f4c-918d52c8abe7",
+      "title": "Alimentar o Cachorro",
+      "description": "Alimentar o c�o antes de sair de casa",
+      "completed": false,
+      "createdAt": "2026-02-01T17:53:39.680Z",
+      "updatedAt": "2026-02-01T17:53:39.680Z"
+    },
+    {
+      "id": "5115db33-5632-4a0a-916a-8b5a312cc605",
+      "title": "Lavar Lou�a",
+      "description": "Lavar a Lou�a antes de sair com o c�o",
+      "completed": false,
+      "createdAt": "2026-02-01T17:53:39.680Z",
+      "updatedAt": "2026-02-01T17:53:39.680Z"
+    },
+    {
+      "id": "49d18610-8ab0-4702-9893-987f85bc6ed1",
+      "title": "Regar as plantas",
+      "description": "Regar as plantas do quintal",
+      "completed": false,
+      "createdAt": "2026-02-01T17:53:39.681Z",
+      "updatedAt": "2026-02-01T17:53:39.681Z"
+    },
+    {
+      "id": "d072bbcf-b98b-4358-b7de-c926e0513f29",
+      "title": "Limpar o teclado",
+      "description": "Testar o novo produto para limpar o teclado",
+      "completed": false,
+      "createdAt": "2026-02-01T17:53:39.681Z",
+      "updatedAt": "2026-02-01T17:53:39.681Z"
+    },
+    {
+      "id": "f460e0d1-24dd-4253-a0af-0215e836595c",
+      "title": "Comprar leite",
+      "description": "Ir ao mercado",
+      "completed": false,
+      "createdAt": "2026-02-01T17:53:39.681Z",
+      "updatedAt": "2026-02-01T17:53:39.681Z"
+    },
+    {
+      "id": "dbb15225-9435-4b66-84b5-046a3143a0ef",
+      "title": "Estudar Node",
+      "description": "Revisar streams e HTTP",
+      "completed": false,
+      "createdAt": "2026-02-01T17:53:39.681Z",
+      "updatedAt": "2026-02-01T17:53:39.681Z"
+    }
+  ]
+}
